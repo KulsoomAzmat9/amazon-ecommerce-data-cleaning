@@ -35,19 +35,23 @@ requirements.txt
 README.md
 
 
- How to Run
-```bash
+ How to Run:
+ 
+bash
+
 Install dependencies
+
 pip install -r requirements.txt
 
-Run cleaning script
+Run cleaning script:
+
 python scripts/clean.py
 
 Proof of Work
 
-cleaning_result.png` proof
+cleaning_result.png` 
 
-✅ What This Project Does
+What This Project Does
 
 1. Removes duplicate orders
 2. Cleans and formats data
