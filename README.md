@@ -24,7 +24,7 @@ Tech Stack
 Python
 Pandas
 
-sProject Structure
+Project Structure
 amazon-ecommerce-data-cleaning/
 data/
 amazon_orders_40_rows.csv
@@ -40,16 +40,13 @@ README.md
 bash
 
 Install dependencies
-
 pip install -r requirements.txt
 
 Run cleaning script:
-
 python scripts/clean.py
 
-Proof of Work
-
-cleaning_result.png` 
+Proof of Work:
+terminal_output.png 
 
 What This Project Does
 
