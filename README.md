@@ -7,7 +7,7 @@ Raw data had duplicate orders, inconsistent formatting, and unclean columns.
 Cleaned it using Python (Pandas) for e-commerce analysis.
 
 Files
-data/amazon_orders_40_rows.csv- Raw Data (40 rows)
+data/amazon_orders_40_rows.csv- Raw Data (40 rows).
 data/cleaned_amazon_orders.csv - Cleaned Data (34 rows)
 
 Cleaning Done:
